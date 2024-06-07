@@ -70,4 +70,15 @@ Jobshet ini bermanfaat untuk memperkenalkan konsep pencarian data dan mengimplem
 
 KESIMPULAN
 JOBSHET 12- TREE
+          Jobshet ini membahas mengenai Tree Traversal, yaitu proses mengunjungi semua simpul dalam sebuah pohon data. Di dalamnya dijelaskan mengenai 3 cara melintasi tree, yaitu: Inorder, Preorder, dan Postorder. Selain itu, jobshet ini juga berisi tentang implementasi tree traversal menggunakan bahasa pemrograman C. Kesimpulannya, jobshet ini membantu mahasiswa memahami konsep Tree Traversal dan cara mengimplementasikannya dalam bahasa pemrograman C. Dengan memahami konsep Tree Traversal, mahasiswa akan dapat lebih mudah dalam mengelola data yang berbentuk pohon.
+
+
+
+KESIMPULAN
+JOBSHET 13- Graphs
+        Jobshet ini membahas tentang pencarian struktur data menggunakan Depth First Search (DFS) dan Breadth First Search (BFS) dalam pemrograman C.Jobshet ini memberikan penjelasan mengenai
+konsep DFS dan BFS, serta contoh implementasi dalam bahasa C.Jobshet ini juga memberikan beberapa contoh program untuk mengimplementasikan DFS dan BFS.Tujuan dari jobshet ini adalah
+untuk membantu mahasiswa memahami konsep DFS dan BFS, serta mengimplementasikannya dalam pemrograman C.
+
+  
           
