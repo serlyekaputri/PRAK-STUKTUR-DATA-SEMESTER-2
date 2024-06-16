@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Serly Eka Putri from Pesisir Selatan<br><br>- 🔭 I’m collage at Padang University<br>- 📚 I'm currently learning c language<br>- ⚡ In my free time I Sleep<br>- 👉 My Hobbies is cooking and sport, running, traveling</p>
+<p align="left">I'm Serly Eka Putri from Pesisir Selatan<br><br>- 🔭 I’m collage at Padang University<br>- ⚡ In my free time I Sleep<br>- 👉 My Hobbies is cooking and sport, running, traveling</p>
 
 ###
 
